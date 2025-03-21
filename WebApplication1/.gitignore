@@ -1,0 +1,60 @@
+## Visual Studio ##
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results ##
+[Bb]in/
+[Oo]bj/
+
+## NuGet Packages ##
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.assets.json
+*.nuget.props
+*.nuget.targets
+
+## Resharper ##
+_ReSharper*/
+*.DotSettings.user
+
+## Rider ##
+.idea/
+
+## Logs ##
+*.log
+
+## Windows image file caches ##
+Thumbs.db
+ehthumbs.db
+
+## Web Projects ##
+*.publish.xml
+*.pubxml
+*.publishproj
+
+## IIS Express ##
+.vsconfig
+*.vspscc
+*.vssscc
+iisexpress/
+
+## Other ##
+*.dbmdl
+*.bak
+*.cache
+*.pdb
+*.tmp
+*.tmp_proj
+*.sdf
+*.psess
+*.vsp
+*.ncb
+*.opendb
+
+## Local History for JetBrains IDEs ##
+.localhistory/
